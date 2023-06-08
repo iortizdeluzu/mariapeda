@@ -1,4 +1,3 @@
-# Mariapedia
 
 <img src="images/mariapedia.png" alt="mariapedia" width="300"/>
 
