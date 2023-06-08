@@ -27,7 +27,7 @@ theme:
   name: material
   features:
     - navigation.indexes
-  logo: images/mariapedia_blanco-bco.png
+  logo: images/mariapedia_logo-bco.png
   favicon: images/favicon.ico
   language: en
   font:
