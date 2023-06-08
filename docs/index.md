@@ -1,6 +1,6 @@
 # Mariapedia
 
-!!! fail "Eres gilipollas y no sabes leer la docu ??"
+!!! error "Eres gilipollas y no sabes leer la docu ??"
 
 
 !!! affirmative "No te preocupes. ya esta aqui marapedia !!"
