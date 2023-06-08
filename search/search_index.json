@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Mariapedia","text":"<p>Eres gilipollas y no sabes leer la docu ??</p> <p>No te preocupes. ya esta aqui marapedia !!</p> <p>Comming soon. </p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Mariapedia","text":"<p>Eres gilipollas y no sabes leer la docu ??</p> <p>No te preocupes!! Ya esta aqui Marapedia para solucionar tus mierdas!!</p> <p>Comming soon. </p>"}]}
