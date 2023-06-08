@@ -1,6 +1,7 @@
 site_name: Mariapedia
 site_description: La respuesta de todas las preguntas estan aqui.
 site_author: iortiz
+site_url: https://www.mariapedia.es
 
 # Copyright
 copyright: Copyright &copy; 2023 DIPC
