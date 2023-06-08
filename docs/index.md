@@ -4,6 +4,6 @@
 
 !!! failure "Eres gilipollas y no sabes leer la docu ??"
 
-!!! success "No te preocupes!! Ya esta aqui Marapedia para solucionar tus mierdas!!"
+!!! success "Mariapedia ya esta aqui para solucionar tus marrones !!"
 
 Comming soon. 
