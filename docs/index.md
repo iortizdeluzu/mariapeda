@@ -1,5 +1,6 @@
-# Home
+# Mariapedia
 
-Eres gilipollas y no sabes ller la docu ??
+!!! tip "Eres gilipollas y no sabes leer la docu ??"
 
-No te preocupes. ya esta aqui marapedia !!
+
+!!! affirmative "No te preocupes. ya esta aqui marapedia !!"
